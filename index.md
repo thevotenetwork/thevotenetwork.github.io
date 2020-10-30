@@ -36,7 +36,7 @@
 <!-- illustration sub id starts -->
         <div id="illustration">
             
-          <img src="assets/eflogo.svg" alt="EF LOGO img" id="logo">
+          <img src="assets/vnlogo.svg" alt="Vote Network LOGO img" id="logo">
         
         </div>
         <!-- illustration sub id ends -->
